@@ -6,4 +6,4 @@
 ## Reports 
 - ### Project Final Report [click here](https://github.com/shoryasethia/SunTrackingSolarPannel/blob/main/Group_17___Final_Report.pdf)
 - ### Project Progress Report [click here](https://github.com/shoryasethia/SunTrackingSolarPannel/blob/main/Group%2017%20-%20Progress%20Report.pdf)
-- ### Project Proposal Reporrt [click here] (https://github.com/shoryasethia/SunTrackingSolarPannel/blob/main/Group%2017-%20PH222%20Proposal.pdf)
+- ### Project Proposal Reporrt [click here](https://github.com/shoryasethia/SunTrackingSolarPannel/blob/main/Group%2017-%20PH222%20Proposal.pdf)
